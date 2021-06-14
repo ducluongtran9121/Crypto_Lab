@@ -1,4 +1,2 @@
-Đây là một bài lab
-thật mất thời gian
-khi mà có rất nhiều thứ phải làm
-tối nay phải làm nha
+Trần Đức Lương 19521815
+Đây là bài Lab4 về ECC-based Digital Signature sử dụng thư viện CryptoPP
